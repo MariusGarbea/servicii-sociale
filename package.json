@@ -10,7 +10,6 @@
     "react-scripts": "0.8.4"
   },
   "dependencies": {
-    "array.prototype.find": "^2.0.1",
     "axios": "^0.15.2",
     "belle": "^3.0.0",
     "history": "^4.4.1",

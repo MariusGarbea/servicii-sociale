@@ -1,5 +1,4 @@
 import React from 'react';
-require('array.prototype.find').shim();
 import SingleMap from '../Map/SingleMap';
 import Paper from 'material-ui/Paper';
 import FlatButton from 'material-ui/FlatButton';
