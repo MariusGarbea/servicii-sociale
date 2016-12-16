@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "axios": "^0.15.2",
+    "babel-polyfill": "^6.20.0",
     "belle": "^3.0.0",
     "history": "^4.4.1",
     "material-ui": "^0.16.4",
