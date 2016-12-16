@@ -1,3 +1,4 @@
+import 'core-js/es6/symbol.js';
 import React from 'react';
 import { render } from 'react-dom';
 import Routes from './config/routes';
